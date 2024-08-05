@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 # About Me
 - 👋 This is The Dev Archive (@thedevarchive)
-- 📁 This is just a place where a certain dev keeps all the projects they've done over the years
+- 📁 This is just a place where I keep all the projects they've done over the years
 - 📚 Currently in uni getting a master's degree
 - 👀 I’m interested in board games, sketching, and most of all, coding! 
 - 🌱 I’m currently learning C#, ASP.NET, Blazor and React.js
