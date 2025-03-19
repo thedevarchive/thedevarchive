@@ -7,25 +7,32 @@
 
 # Tech Stacks 
 
-## Programming
+### Programming
 
 
 
-## Frameworks
+### Frameworks
 
-## Web Development
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## Cloud Computing
+
+### Web Development
+
+### Cloud Computing
 
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-## Version Control
+### Version Control
 
-## Database Management
+### Database Management
 
-## IDEs
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Browsers, Search Engines and Generative AI Used
+### IDEs
+
+### Browsers, Search Engines and Generative AI Used
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
