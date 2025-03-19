@@ -7,7 +7,7 @@
 
 # What I'm Working On 
 
-A web application for adding and managing code snippets. [Check it out!](https://github.com/thedevarchive/code-snippet-manager).
+A web application for adding and managing code snippets. [Check it out!](https://github.com/thedevarchive/code-snippet-manager)
 
 # Tech Stacks 
 
