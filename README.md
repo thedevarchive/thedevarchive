@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning C#, ASP.NET, Blazor and React.js
 - 👀 Aside from software dev, I'm interested in cybersecurity, cloud computing, AI and working with IoT
 
+# What I'm Working On 
+
+A web application for adding and managing code snippets. [Check it out!](https://github.com/thedevarchive/code-snippet-manager).
+
 # Tech Stacks 
 
 ### Programming
