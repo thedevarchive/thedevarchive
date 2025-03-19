@@ -4,6 +4,7 @@
 - 👀 I’m interested in board games, sketching, and most of all, coding! 
 - 🌱 I’m currently learning C#, ASP.NET, Blazor and React.js
 
+#
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) 
