@@ -8,7 +8,8 @@
 # What I'm Working On 
 
 A web application for adding and managing code snippets. [Check it out!](https://github.com/thedevarchive/code-snippet-manager)
-I'm also currently improving my skills in React and using Cursor IDE
+I also just published the [website](https://tda-code-snippets.netlify.app/).
+I'm also currently improving my skills in React and learning about AI agents. 
 
 # Tech Stacks 
 
