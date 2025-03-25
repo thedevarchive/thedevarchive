@@ -2,7 +2,7 @@
 - 👋 This is The Dev Archive (@thedevarchive)
 - 📁 This is just a place where I keep all the projects I've done over the years
 -  My hobbies are board games, sketching, and building solo projects! 
-- 🌱 I’m currently learning C#, ASP.NET, Blazor and React.js
+- 🌱 I’m currently developing projects in React and learning about AI agents 
 - 👀 Aside from software dev, I'm interested in cybersecurity, cloud computing, AI and working with IoT
 
 # What I'm Working On 
@@ -10,8 +10,6 @@
 A web application for adding and managing code snippets. [Check it out!](https://github.com/thedevarchive/code-snippet-manager)
 
 I also just published the [website](https://tda-code-snippets.netlify.app/).
-
-I'm also currently improving my skills in React and learning about AI agents. 
 
 # Tech Stacks 
 
