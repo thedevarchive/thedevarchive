@@ -7,9 +7,7 @@
 
 # What I'm Working On 
 
-A web application for adding and managing code snippets. [Check it out!](https://github.com/thedevarchive/code-snippet-manager)
-
-I also just published the [website](https://tda-code-snippets.netlify.app/).
+Creating a new personal (portfolio)[https://github.com/thedevarchive/dev-archive-portfolio] showcasing my best projects yet. 
 
 # Tech Stacks 
 
