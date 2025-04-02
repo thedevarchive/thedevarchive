@@ -7,7 +7,7 @@
 
 # What I'm Working On 
 
-Creating a new personal (portfolio)[https://github.com/thedevarchive/dev-archive-portfolio] showcasing my best projects yet. 
+Creating a new personal [portfolio](https://github.com/thedevarchive/dev-archive-portfolio) showcasing my best projects yet. 
 
 # Tech Stacks 
 
