@@ -85,12 +85,8 @@ Creating a new personal [portfolio](https://github.com/thedevarchive/dev-archive
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/code-written-by-chatgpt-ai-ftw.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/get-things-done.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/code-done-bugs-none.svg)](https://forthebadge.com)
 
 <!---
 thedevarchive/thedevarchive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
