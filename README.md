@@ -2,12 +2,12 @@
 - 👋 This is The Dev Archive (@thedevarchive)
 - 📁 This is just a place where I keep all the projects I've done over the years
 -  My hobbies are board games, sketching, and building solo projects! 
-- 🌱 I’m currently developing projects in React and learning about AI agents 
+- 🌱 I’m currently developing projects in different React frameworks and learning about AI agents 
 - 👀 Aside from software dev, I'm interested in cybersecurity, cloud computing, AI and working with IoT
 
 # What I'm Working On 
 
-Creating a new personal [portfolio](https://github.com/thedevarchive/dev-archive-portfolio) showcasing my best projects yet. 
+TBA
 
 # Tech Stacks 
 
